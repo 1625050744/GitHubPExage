@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: 自己紹介
+description: 自己紹介をします。
+github:
+  is_project_page: false
