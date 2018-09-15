@@ -5,4 +5,4 @@
 　山口大学工学部知能情報工学科3年<br>
 ### 最近始めたこと<br>
 　ルービックキューブ 
-![内部リンク(ルービックキューブ)](C:\Users\enPiT-P22\Pictures\githubpage)
+![ルービックキューブ](C:\Users\enPiT-P22\Pictures\githubpage\N695_ru-bikkucubeup_TP_V.jpg)
