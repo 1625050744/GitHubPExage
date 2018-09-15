@@ -1,5 +1,3 @@
-theme: jekyll-theme-cayman
-title: 自己紹介
-description: 自己紹介をします。
-github:
-  is_project_page: false
+# 自己紹介    
+## 名前<br>
+*満河 祐治*
