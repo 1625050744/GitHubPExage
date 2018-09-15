@@ -5,7 +5,7 @@
 　山口大学工学部知能情報工学科3年<br>
 ### 最近始めたこと<br>
 　ルービックキューブ
-![ルービックキューブ](rubiku.jpg)   
 <img src = "rubiku.jpg" alt="ルーブックキューブ" title = "ルーブックキューブ" width="200" height = "200" />
+<a href = "hoby.html">最近始めたこと</a>
 
 
